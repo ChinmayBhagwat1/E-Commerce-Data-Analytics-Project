@@ -1,4 +1,4 @@
-# My Data Analytics Project
+# E-Commerce Data Analytics Project
 
 ## Overview
 This project showcases a data analytics workflow involving Python and SQL. It includes exploratory data analysis, and querying a database to find business insights.
