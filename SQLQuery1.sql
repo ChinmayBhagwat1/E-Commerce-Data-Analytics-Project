@@ -34,16 +34,12 @@ group by customer_gender, category
 order by customer_gender, purchase_count desc
 
 
-
 --which age group buys which category and product
 
 select customer_age_group, count(*) as purchase_count
 from dbo.ecommerce
 group by customer_age_group
 order by purchase_count desc
-
-
---top three products per location
 
 
 --average return rate based on each category
